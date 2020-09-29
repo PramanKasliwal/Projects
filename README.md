@@ -5,10 +5,13 @@ Here is the list of all of my projects that I have worked on...
 
 ---
 ## List of Projects
+Project Name | Status
+-------------|--------
+[ASNA (Automated Systems & Network Auditor)](https://github.com/PramanKasliwal/ASNA) | *Ongoing*
+[DonkeyScanner](https://github.com/Praman1997/DonkeyScanner) | Completed
+[De-Code v1](https://github.com/Praman1997/De-Code-v1) | Completed
+[Knocker](https://github.com/Praman1997/Knocker) | Completed
+[GMailer](https://github.com/Praman1997/GMailer) | Completed
+[Rot Shift Breaker](https://github.com/Praman1997/ROTShiftBreaker) | Completed
 
-* [DonkeyScanner](https://github.com/Praman1997/DonkeyScanner)
-* [De-Code v1](https://github.com/Praman1997/De-Code-v1)
-* [Knocker](https://github.com/Praman1997/Knocker)
-* [GMailer](https://github.com/Praman1997/GMailer)
-* [Rot Shift Breaker](https://github.com/Praman1997/ROTShiftBreaker)
 ---
